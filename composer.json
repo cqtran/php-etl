@@ -10,7 +10,6 @@
         }
     ],
     "require": {
-        "illuminate/container": "*",
         "softcreatr/jsonpath": "^0.7.2"
     },
     "autoload": {
