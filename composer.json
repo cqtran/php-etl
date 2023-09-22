@@ -1,5 +1,5 @@
 {
-    "name": "marquine/php-etl",
+    "name": "InfoTechRG/php-etl",
     "description": "Extract, Transform and Load data using PHP.",
     "keywords": ["etl", "extract", "transform", "load", "extraction", "transformation", "seed", "data", "laravel"],
     "license": "MIT",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "illuminate/container": "^5.0|^6.0|^7.0|^8.0",
+        "laravel/framework": "^10.0",
         "softcreatr/jsonpath": "^0.7.2"
     },
     "autoload": {
